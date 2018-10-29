@@ -3186,7 +3186,6 @@
 {"source": "actuarialupdates.process.sppbs_detail_period", "target":"reportadmin.process.spallowed"},
 {"source": "actuarialupdates.process.spstaff_leave_day", "target":"reportadmin.process.spallowed"},
 {"source": "actuarialupdates.process.spstaff_pbs_leave_detail_end_period", "target":"reportadmin.process.spallowed"},
-{"source": "brokers.process.spbroker_ma_bdm", "target":"reportadmin.process.spbrokerhisttier"},
 {"source": "reportadmin.process.spemployee", "target":"reportadmin.process.spbuildpbsdropdowns"},
 {"source": "actuarialupdates.process.sppbs_detail_period", "target":"reportadmin.process.spbuildpbsdropdowns"},
 {"source": "actuarialupdates.process.sppbs_detail", "target":"reportadmin.process.spemployee"},

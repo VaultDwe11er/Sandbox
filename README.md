@@ -3453,6 +3453,6 @@ links:
 {"Source": "OUTsuranceLife.Process.SPUWL_Policy_Detail", "Target":"WarehouseSensitive.Process.SPUpsellingDTA"},
 {"Source": "ActuarialUpdates.Process.SPMESSAGE_REFERRAL", "Target":"WarehouseSensitive.Process.SPUpsellingDTA"},
 {"Source": "ActuarialUpdates.Process.SPCUSTOMER_DETAIL_UPDATE", "Target":"WarehouseSensitive.Process.SPUpsellingDTA"},
-{"Source": "ClientCare.Process.SetCCLeadDetails", "Target":"WarehouseSensitive.Process.SPUpsellingDTA"},
+{"Source": "ClientCare.Process.SetCCLeadDetails", "Target":"WarehouseSensitive.Process.SPUpsellingDTA"}
 ]
 }

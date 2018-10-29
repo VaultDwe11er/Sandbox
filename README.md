@@ -1,4 +1,4 @@
-{
+{ 
 "nodes":
 [
 {"id":"actuarialfinance.process.spassetregistermapping", "group": "all", "radius": 2, "count": 1},

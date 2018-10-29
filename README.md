@@ -2240,7 +2240,6 @@
 {"source": "clientcentric.process.leads_quoted_but_never_incepted_clients_contact_base", "target":"clientcentric.process.leads_quoted_but_never_incepted_clients_model_data"},
 {"source": "clientcentric.process.leads_quoted_but_never_incepted_clients_contact_reasons_scored", "target":"clientcentric.process.leads_quoted_but_never_incepted_clients_model_data"},
 {"source": "actuarialupdates.process.spltp_qtedet_sec_risks", "target":"clientcentric.process.per_asset_detail"},
-{"source": "clientcentric.process.per_asset", "target":"clientcentric.process.per_asset_detail"},
 {"source": "actuarialupdates.process.spcustomer_detail_update", "target":"clientcentric.process.per_customer_code"},
 {"source": "actuarialupdates.process.spcustomer_detail_update", "target":"clientcentric.process.per_customer_detail_key"},
 {"source": "clientcentric.process.client_centric_keys", "target":"clientcentric.process.per_customer_detail_key"},

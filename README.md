@@ -2702,7 +2702,6 @@
 {"source": "actuarialupdates.process.spamendment_quotes_ad_response", "target":"marketing.process.sponlineperformancenew"},
 {"source": "marketing.process.spperformanceanalysisdirectdetail", "target":"marketing.process.sponlineperformancenew"},
 {"source": "marketing.process.spwebsitepage", "target":"marketing.process.sponlineperformancenew"},
-{"source": "training.process.spdfaloademail", "target":"marketing.process.sponlineperformancenew"},
 {"source": "actuarialupdates.process.spmessage_referral", "target":"marketing.process.sponlineperformancenew"},
 {"source": "marketing.process.spga_leadsource", "target":"marketing.process.sponlineperformancenew"},
 {"source": "clientcare.process.setccleaddetails", "target":"marketing.process.sponlineperformancenew"},

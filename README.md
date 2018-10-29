@@ -1,4 +1,4 @@
-{ 
+{
 "nodes":
 [
 {"id":"actuarialfinance.process.spassetregistermapping", "group": "all", "radius": 2, "count": 1},
@@ -2132,7 +2132,6 @@
 {"source": "clientcentric.process.leads_latest_unsold_commercial_business_quotes_with_risk_codes_info", "target":"clientcentric.process.leads_ex_clients_contact_base"},
 {"source": "clientcentric.process.leads_ex_clients_latest_commercial_business_cancellation_per_latest_risk", "target":"clientcentric.process.leads_ex_clients_contact_base"},
 {"source": "clientcentric.process.leads_ex_clients_latest_life_cancellation_per_latest_risk", "target":"clientcentric.process.leads_ex_clients_contact_base"},
-{"source": "clientcentric.process.leads_ex_clients_contact_reasons", "target":"clientcentric.process.leads_ex_clients_contact_reasons_scored"},
 {"source": "clientcentric.process.leads_ex_clients_contact_base", "target":"clientcentric.process.leads_ex_clients_contact_reasons_scored"},
 {"source": "actuarialupdates.process.spfull_risk_changes", "target":"clientcentric.process.leads_ex_clients_latest_cancellation_per_latest_risk"},
 {"source": "actuarialupdates.process.spfull_risk_changes_pbs_update", "target":"clientcentric.process.leads_ex_clients_latest_cancellation_per_latest_risk"},
@@ -2161,7 +2160,6 @@
 {"source": "actuarialupdates.process.spretention_by_product", "target":"clientcentric.process.leads_ex_clients_model_data"},
 {"source": "actuarialupdates.process.spcustomer_detail_update", "target":"clientcentric.process.leads_ex_clients_model_data"},
 {"source": "clientcentric.process.per_customer_code", "target":"clientcentric.process.leads_ex_clients_model_data"},
-{"source": "clientcentric.process.leads_ex_clients_contact_reasons", "target":"clientcentric.process.leads_ex_clients_model_data"},
 {"source": "clientcentric.process.leads_ex_clients_contact_base", "target":"clientcentric.process.leads_ex_clients_model_data"},
 {"source": "clientcentric.process.leads_ex_clients_contact_reasons_scored", "target":"clientcentric.process.leads_ex_clients_model_data"},
 {"source": "clientcentric.process.per_unsold_risks", "target":"clientcentric.process.leads_id_list"},

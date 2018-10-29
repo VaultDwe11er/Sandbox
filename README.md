@@ -912,7 +912,7 @@
 {"id":"WarehouseSensitive.Process.SPSPRESULTS_TRANSMITTED", "group": "All", "radius": 2, "count": 1},
 {"id":"WarehouseSensitive.Process.SPUpsellingDTA", "group": "All", "radius": 2, "count": 1}
 ],
-links:
+"links":
 [
 {"Source": "ActuarialFinance.Process.SPCurrentWMHPeriod", "Target":"ActuarialFinance.Process.SPCostReportBaseData"},
 {"Source": "Claims.Process.SPCLAIMS", "Target":"ActuarialFinance.Process.SPFinancialCubeUpdate"},

@@ -399,6 +399,7 @@
 {"name":"clientcentric.process.per_id_no", "group": "all", "radius": 2, "count": 1},
 {"name":"clientcentric.process.per_product", "group": "all", "radius": 2, "count": 1},
 {"name":"clientcentric.process.per_risk", "group": "all", "radius": 2, "count": 1},
+{"name":"clientcentric.process.per_unsold_quotes", "group": "all", "radius": 2, "count": 1},
 {"name":"clientcentric.process.per_unsold_risks", "group": "all", "radius": 2, "count": 1},
 {"name":"clientcentric.process.person_identification", "group": "all", "radius": 2, "count": 1},
 {"name":"clientcentric.process.sp_grapevine_initiate_batchupsertrecipient", "group": "all", "radius": 2, "count": 1},

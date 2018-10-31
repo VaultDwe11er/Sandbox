@@ -388,6 +388,7 @@
 {"name":"clientcentric.process.leads_life_summary", "group": "all", "radius": 2, "count": 1},
 {"name":"clientcentric.process.leads_live_clients_active_products", "group": "all", "radius": 2, "count": 1},
 {"name":"clientcentric.process.leads_live_clients_active_products_latest_risks", "group": "all", "radius": 2, "count": 1},
+{"name":"clientcentric.process.leads_live_clients_active_products_latest_risks_summary", "group": "all", "radius": 2, "count": 1},
 {"name":"clientcentric.process.leads_live_clients_contact_base", "group": "all", "radius": 2, "count": 1},
 {"name":"clientcentric.process.leads_live_clients_personal_quotes_cancellations_contact_base", "group": "all", "radius": 2, "count": 1},
 {"name":"clientcentric.process.leads_personal_summary", "group": "all", "radius": 2, "count": 1},
